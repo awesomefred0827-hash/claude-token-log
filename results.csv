@@ -1,0 +1,4 @@
+tool,repo,version,date,stage,before_cost_weighted,after_cost_weighted,change_pct,before_input,before_cache_write,before_cache_read,before_output,after_input,after_cache_write,after_cache_read,after_output,before_sec,after_sec,accuracy_before,accuracy_after
+caveman,JuliusBrussee/caveman,v3.1.0,2026-10-05,dropped_after_test,44592,49460,+10.9%,6,26661,92220,408,6,29533,107407,359,18.8,24.1,15/15,15/15
+pxpipe,teamchong/pxpipe,v0.14.0,2026-10-05,dropped_after_test,45370,134616,+196.7%,6,26866,92228,512,5,102153,45011,484,15.5,18.0,15/15,15/15
+rtk,rtk-ai/rtk,v0.51.0,2026-10-05,dropped_after_test,44592,47756,+7.1%,6,26661,92220,408,7,27030,109801,596,18.8,24.3,15/15,15/15
